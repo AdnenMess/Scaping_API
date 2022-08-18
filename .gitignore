@@ -3,4 +3,3 @@ models/
 notebooks/
 venv/
 secret
-secret/login.json
